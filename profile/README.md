@@ -1,4 +1,5 @@
-# [Webcored](https://webcored.github.io)
+# [Webcored](https://webcored.com)
 ## Hi there 👋 checkout our contributions below
 
-[webcored.github.io](https://webcored.github.io)
+🌐 [webcored.com](https://webcored.com)
+
